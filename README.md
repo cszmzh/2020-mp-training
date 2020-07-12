@@ -11,3 +11,7 @@ mp-project为小程序项目文件，shopping为SpringBoot项目文件，开发�
 
 开发于2020年6月10日，后续计划将此项目移植至uniapp。
 
+界面展示如下：
+
+<img src="img/小程序界面.png" alt="小程序界面展示" style="zoom:50%;" />
+
