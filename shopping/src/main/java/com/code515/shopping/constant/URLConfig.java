@@ -4,7 +4,7 @@ public class URLConfig {
 
     /*服务器或本机真实资源绝对路径*/
     private static String realURL = "/media/static/";
-    //private static String realURL = "/Users/ming/Desktop/小程序开发/static/";
+    // private static String realURL = "/Users/ming/Desktop/static/";
 
     public static String getRealURL() {
         return realURL;
